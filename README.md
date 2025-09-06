@@ -37,8 +37,8 @@ The platform focuses on **simplicity, readability, and convenience**, making it 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/web2pdfly.git
-cd web2pdfly
+git clone https://github.com/123abhisek/Snap2Doc.git
+cd Snap2Doc
 ```
 
 ### 2️⃣ Create Virtual Environment
